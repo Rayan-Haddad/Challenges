@@ -1,3 +1,3 @@
-# Leetcode-easy-problems-solved
+# Coding Challenges
 
-Here you will find easy leetcode problems solved!!!
+<span style="color: yellow;">🌟 Some coding challenges in different languages!</span>
